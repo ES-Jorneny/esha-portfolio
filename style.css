@@ -1174,6 +1174,7 @@ header ul a:hover{
     }
 
     .card h1{
+        margin-bottom: 20px;
         bottom: 30%;
         font-size: 5px;
     }
